@@ -23,7 +23,7 @@ options:
 
 # example: look up machines
 ```
-python query_sep.py --hostname MySEPHost --username MyUserName --password MyPassword --machine LT-12345
+python query_sep.py --hostname 'MySEPHost.internal.com:8446' --username MyUserName --password MyPassword --machine LT-12345
 ```
 
 # references: 
